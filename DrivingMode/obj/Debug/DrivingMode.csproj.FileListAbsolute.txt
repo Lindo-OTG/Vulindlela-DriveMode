@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2013\Projects\DrivingMode\DrivingMode\bin\Debug\DrivingMode.exe.config
+c:\users\michael\documents\visual studio 2013\Projects\DrivingMode\DrivingMode\obj\Debug\DrivingMode.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2013\Projects\DrivingMode\DrivingMode\obj\Debug\DrivingMode.frmDrivingMode.resources
+c:\users\michael\documents\visual studio 2013\Projects\DrivingMode\DrivingMode\obj\Debug\DrivingMode.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2013\Projects\DrivingMode\DrivingMode\obj\Debug\DrivingMode.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2013\Projects\DrivingMode\DrivingMode\bin\Debug\DrivingMode.exe
+c:\users\michael\documents\visual studio 2013\Projects\DrivingMode\DrivingMode\bin\Debug\DrivingMode.pdb
+c:\users\michael\documents\visual studio 2013\Projects\DrivingMode\DrivingMode\obj\Debug\DrivingMode.exe
+c:\users\michael\documents\visual studio 2013\Projects\DrivingMode\DrivingMode\obj\Debug\DrivingMode.pdb
